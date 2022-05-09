@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1612886161 source:e:\arquivos de programas\c projects\tp0_paa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header/arte.h"
+	"header/menu.h"
+	<time.h>
+
+1612841801 e:\arquivos de programas\c projects\tp0_paa\header\arte.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1612886124 e:\arquivos de programas\c projects\tp0_paa\header\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1612930386 source:e:\arquivos de programas\c projects\tp0_paa\origem\arte.c
+	"../header/arte.h"
+
+1612886128 source:e:\arquivos de programas\c projects\tp0_paa\origem\menu.c
+	"../header/menu.h"
+
