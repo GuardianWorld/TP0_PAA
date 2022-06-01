@@ -1,6 +1,0 @@
-﻿  main.c
-Z:\BACKUP\Codigo\PAA\TP0_PAA\main.c(12,18): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
-  arte.c
-  menu.c
-  Gerando Código...
-  TP0_PAA.vcxproj -> Z:\BACKUP\Codigo\PAA\TP0_PAA\Debug\TP0_PAA.exe
